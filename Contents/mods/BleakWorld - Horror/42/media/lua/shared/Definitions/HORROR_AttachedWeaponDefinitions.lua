@@ -1,0 +1,1 @@
+AttachedWeaponDefinitions.chanceOfAttachedWeapon = 4; -- Global chance of having an attached weapon

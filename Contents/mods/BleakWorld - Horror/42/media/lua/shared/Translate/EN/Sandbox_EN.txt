@@ -1,0 +1,24 @@
+Sandbox_EN = {
+    Sandbox_HorrorWorld = "Horror World",
+    
+    Sandbox_VisionRadius = "Set vision radius",
+    Sandbox_VisionRadius_tooltip = "Adjusts player vision range.",
+
+    Sandbox_VisionBlur = "Set vision blur",
+    Sandbox_VisionBlur_tooltip = "Adjusts amount of vision blurring.",
+	
+	Sandbox_DarknessLevel = "Set blur darkness",
+    Sandbox_DarknessLevel_tooltip = "Adjusts the blur darkness level",
+	
+	Sandbox_DayFogChance = "Set daily fog chance",
+    Sandbox_DayFogChance_tooltip = "Adjusts chance of fog during daytime.",
+
+    Sandbox_DayFogLevel = "Set fog intensity during daytime",
+    Sandbox_DayFogLevel_tooltip = "Adjusts the fog intensity during daytime.",
+	
+	Sandbox_NightFogChance = "Set nightly fog chance",
+    Sandbox_NightFogChance_tooltip = "Adjusts chance of fog during night.",
+	
+	Sandbox_NightFogLevel = "Set fog intensity during night",
+    Sandbox_NightFogLevel_tooltip = "Adjusts the fog intensity during night.",
+}

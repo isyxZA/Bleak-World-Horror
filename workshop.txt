@@ -1,0 +1,36 @@
+version=1
+id=3403923830
+title=Bleak World - Horror [B42]
+description=Creates a horror like environment.
+description=
+description=Does not affect the UI or screen overlays.
+description=
+description=Changes zombie textures and spawn definitions.
+description=Adds screen and highlight effects.
+description=Adds fog on the first day.
+description=
+description=[h2]Sandbox Options to make it easier or harder![/h2]
+description=[list]
+description=    [*]Adjust vision radius
+description=    [*]Adjust blur strength
+description=    [*]Adjust blur darkness
+description=    [*]Set day fog frequency
+description=    [*]Set day fog intensity
+description=    [*]Set night fog frequency
+description=    [*]Set night fog intensity
+description=[/list]
+description=
+description=
+description=Enable sub-mod to remove film grain effect.
+description=
+description=If effects are still visible after deactivating the mod then restart the game to reset the shaders to default.
+description=
+description=
+description=[h3]Some creepy complimentary mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3370505363] Spooky Trees and Vines [/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3396867685] Starving Zombies [/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2874678809] Lingering Whispers [/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2834231099] Random Sound Events [/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3409640423] Climbing Zombies [/url]
+tags=Build 42;Hardmode;Misc;Textures
+visibility=public

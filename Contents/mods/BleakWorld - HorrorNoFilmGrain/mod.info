@@ -1,0 +1,5 @@
+name=Bleak World - HorrorNoFilmGrain
+poster=poster.png
+id=BleakWorldHorrorNoFilmGrain
+description=Removes film grain effect.
+require=\BleakWorldHorror,
